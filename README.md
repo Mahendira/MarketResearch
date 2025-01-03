@@ -1,7 +1,14 @@
-# Spring Boot React OAuth2 Social Login Demo
+# Pricing Engine and Market research for co-work spaces
 
-![Uploading image.png…]()
+MsSql setup - local
+![img.png](img.png)
 
+mvn spring-boot:run
+react-social> npm start
+
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
 
 ## Setting up the Backend Server (spring-social)
 
